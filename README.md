@@ -1,7 +1,7 @@
 ## Dubai Landmarks Backend
 
 ## Run server
-
+Node js version 14.18.1
 Use npm version 6.14.15
 
 `npm install -g npm@6.14.15`
